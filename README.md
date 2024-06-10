@@ -1,2 +1,3 @@
 # Tp5_INGSOFT1
-Tp5 de analisis
+Materia: Ingenieri Software 1
+Alumnos: Felipe Correa, Luca Colazo, Kevin Hertler, Patricio Heyde, Facundo Lambarri.
